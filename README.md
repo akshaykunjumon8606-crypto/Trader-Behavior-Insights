@@ -183,8 +183,6 @@ Matplotlib
 
 Seaborn
 
-Jupyter Notebook
-
 Git
 
 GitHub
